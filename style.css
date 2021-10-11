@@ -1,0 +1,52 @@
+.Tictac {
+    margin: 1%;
+    width: 23vmin;
+    box-shadow: -0px -0px 6px 6px rgb(185, 185, 185);
+    
+}
+.Tictac1 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-content: center;
+    width: 100vmin;
+    height: 90vmin;
+    padding: 2%;
+}
+h3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-position: center right 10px;
+    background-size: 9%;
+    background-repeat: no-repeat;
+    height: 3.5vmin;
+    width: 22vmin;
+    margin: 0;
+    padding-left: 10px;
+    background-image: url("https://images.unsplash.com/photo-1633947950049-618869c4d349?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=735&q=80");
+    color: cornsilk;
+    background-color: rgb(99, 99, 161);
+}
+img {
+    height: 300px;
+}
+img ,p , footer {
+    width: 23vmin;
+}
+p {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    height: 120px;
+    padding-top: 15px;
+    background-color: gray;
+    
+}
+footer {
+    text-align: center;
+    height: 2.5vmin;
+    padding-top: 3px;
+    background-color: cadetblue;
+    color: cornsilk;
+}
+
